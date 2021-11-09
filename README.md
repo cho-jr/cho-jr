@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ... a56979193@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I  the Han-Don Sommelier Certificate 🐷
+- ⚡ Fun fact: I got the Han-Don Sommelier Certificate 🐷
 
