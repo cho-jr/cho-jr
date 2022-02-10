@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm JaeRyeong Cho 👩‍💻
 
-<!--
-**cho-jr/cho-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+- 😎 **Just Do It!**
+- 💾 **Backend Developer** (Java/Spring Framework)
+- 🤣 **Sometimes Frontend Developer** (JavaScript, JQuery)
 
 <!--
 - 🔭 I’m currently working on ...
@@ -14,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
-- 📫 How to reach me: ... a56979193@gmail.com
+- 📫 How to reach me: a56979193@gmail.com
 - ⚡ Fun fact: I got the Han-Don Sommelier Certificate 🐷
 
