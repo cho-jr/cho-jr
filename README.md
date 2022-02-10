@@ -1,4 +1,4 @@
-### Hi there 👋 I'm JaeRyeong Cho 👩‍💻
+### Hi there 👋 I'm JaeRyeong Cho, who works steadily 👩‍💻
 
 - 😎 **Just Do It!**
 - 💾 **Backend Developer** (Java/Spring Framework)
