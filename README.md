@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm JaeRyeong Cho, who works steadily 👩‍💻
 안녕하세요, 매일 성장하는 **조재령** 입니다.  
-효율적이고 의미있는 코드를 생산하기 위해 공부중 입니다.  
+**효율**적이고 **의미**있는 코드를 생산하기 위해 공부중 입니다.  
 
 - 😎 **Just Do It!**
 - 💾 **Backend Developer** (Java/Spring Framework)
